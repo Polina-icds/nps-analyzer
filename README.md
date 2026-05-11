@@ -17,3 +17,10 @@ A simple Python tool to analyze customer feedback sentiment and calculate NPS (N
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
+   ## Web Interface
+
+The project also includes a **Streamlit** app for interactive analysis:
+
+```bash
+streamlit run app.py
